@@ -1,2 +1,6 @@
 "id","overrideValues","name","ref1","ref2","ref3","ref4","ref5","ref6","ref7","ref8","ref9","ref10","ref11","ref12","ref13","ref14","ref15","ref16","ref17","ref18","ref19","ref20"
-"17213479-ff61-4b0c-a505-fd9cd3c61d10","false","FileKey - FileName HVM noitifications","","","","","","","","","","","","","","","","","","","",""
+"a0b165c4-12c5-4c3d-a3b8-e88e258f9028","true","SFDC - LFB Platform_fee_type ","$ Per Ride","flat","","","","","","","","","","","","","","","","","",""
+"a0b165c4-12c5-4c3d-a3b8-e88e258f9028","true","SFDC - LFB Platform_fee_type ","% of Ride Amount","percent","","","","","","","","","","","","","","","","","",""
+"a0b165c4-12c5-4c3d-a3b8-e88e258f9028","true","SFDC - LFB Platform_fee_type ","Waived","waived","","","","","","","","","","","","","","","","","",""
+"a0b165c4-12c5-4c3d-a3b8-e88e258f9028","true","SFDC - LFB Platform_fee_type ","Tiered % per ride","tiered_percent","","","","","","","","","","","","","","","","","",""
+"a0b165c4-12c5-4c3d-a3b8-e88e258f9028","true","SFDC - LFB Platform_fee_type ","Tiered $ per ride","tiered_flat","","","","","","","","","","","","","","","","","",""
