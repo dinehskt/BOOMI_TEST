@@ -1,3 +1,2 @@
 "id","overrideValues","name","ref1","ref2","ref3","ref4","ref5","ref6","ref7","ref8","ref9","ref10","ref11","ref12","ref13","ref14","ref15","ref16","ref17","ref18","ref19","ref20"
-"304516ce-e69b-4f4a-be6a-2e9b2c660185","true","Salesforce Common Subsidiary-LE-BU-Ledger XREF","Lyft_INC_BU","Lyft, Inc","USD","Lyft Inc SFDC INV","US","LYFTINC","300000005848486","","","","","","","","","","","","",""
-"304516ce-e69b-4f4a-be6a-2e9b2c660185","true","Salesforce Common Subsidiary-LE-BU-Ledger XREF","Lyft_INC_BU","Lyft Healthcare, Inc","USD","Lyft HLTH SFDC- INV","US","LYFTHLTH","300000005848486","","","","","","","","","","","","",""
+"4a50bd69-ff8d-4353-8016-2fe497f1d367","false","Boomi.Lyft.Environments","","","","","","","","","","","","","","","","","","","",""
