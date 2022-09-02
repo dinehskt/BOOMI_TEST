@@ -1,2 +1,6 @@
 "id","overrideValues","name","ref1","ref2","ref3","ref4","ref5","ref6","ref7","ref8","ref9","ref10","ref11","ref12","ref13","ref14","ref15","ref16","ref17","ref18","ref19","ref20"
-"3e63598a-d7ba-4580-9a4a-ed4622a2987a","false","Boomi.User.Roles","","","","","","","","","","","","","","","","","","","",""
+"cba9db57-bbd1-451a-ab2c-b825cd1796f2","true","Bank_Details_XREF","PG001","000003033655360","JPMorgan Chase Bank, N.A.","021000021","USD","","","","","","","","","","","","","","",""
+"cba9db57-bbd1-451a-ab2c-b825cd1796f2","true","Bank_Details_XREF","PG002","000000606593892","JPMorgan Chase Bank, N.A.","021000021","USD","","","","","","","","","","","","","","",""
+"cba9db57-bbd1-451a-ab2c-b825cd1796f2","true","Bank_Details_XREF","PG003","000000628756535","JPMorgan Chase Bank, N.A.","021000021","USD","","","","","","","","","","","","","","",""
+"cba9db57-bbd1-451a-ab2c-b825cd1796f2","true","Bank_Details_XREF","PG004","4000012848","JPMorgan Chase Bank, N.A.","027000012","CAD","","","","","","","","","","","","","","",""
+"cba9db57-bbd1-451a-ab2c-b825cd1796f2","true","Bank_Details_XREF","PG005","4000012848","JPMorgan Chase Bank, N.A.","027000012","CAD","","","","","","","","","","","","","","",""
